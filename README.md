@@ -6,7 +6,7 @@
 
 ![SpaceGame2027](https://github.com/Brodespend7/GameDevPortfolio2027a3/blob/main/images/SpaceGame01.png?raw=true)
 
-[Link to Source Code](https://github.com/Brodespend7/GameDevPortfolio2027a3/tree/main/src/SpaceGame)
+[Source Code](https://github.com/Brodespend7/GameDevPortfolio2027a3/tree/main/src/SpaceGame)
 
 ## Game Overview
 The players goal is to get to the highest wave/level to win with a time of 60 seconds, the main challenge is the time limit and if you lose to many lives.
